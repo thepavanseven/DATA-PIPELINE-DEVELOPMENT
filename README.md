@@ -71,3 +71,7 @@ Research and Prototyping: Rapidly iterating on data cleaning and feature enginee
 
 Conclusion
 This project showcases a practical, production-ready approach to building ETL pipelines in Python using pandas and scikit-learn. The resulting code is modular, extensible, and ready for adaptation to real-world datasets and business needs. By automating the ETL process, organizations can ensure data quality, reproducibility, and efficiency across their analytics and machine learning initiatives.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/e15dfc9f-ce42-463d-b1be-f563cc4aaea0)
